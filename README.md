@@ -7,8 +7,11 @@ Data: Agosto / 2023
 Autores:
 
 Ítalo Guedes¹ - italo.guedes@ufpe.br - [https://github.com/igsufpe]
+
 Max Andrade¹ - max.andrade@ufpe.br
+
 Cleber Zanchettin² - cz@cin.ufpe.br - [https://github.com/zanche]
+
 Adriana Rolim³ - adriana.rolim@mpor.gov.br
 
 ¹ Universidade Federal de Pernambuco (UFPE), ² Centro de Informática Universidade Federal de Pernambuco (CIn/UFPE), ³Secretaria Nacional de Aviação Civil (SAC).
